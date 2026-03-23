@@ -17,7 +17,7 @@ Minutes later, teammates started commenting:
 Mike was speechless. He quickly renamed the note to “Happy Food Diary.”  
 Surprisingly, it became the **most popular note** on the team.
 
-### **不小心公開筆記事件**
+# 不小心公開筆記事件
 
 有一天，小明用 HackMD 寫下他的「超機密減肥計畫」，內容包括「每天只吃一塊蛋糕」、「晚上十一點跑去超商買宵夜」等等。
 
